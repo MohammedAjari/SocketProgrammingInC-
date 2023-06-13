@@ -1,0 +1,17 @@
+C:\Users\Mohammed.Ajari.SSMLEC_07\source\repos\ChatApplication\ChatApplication2\obj\Debug\net6.0-windows\ChatApplication2.csproj.AssemblyReference.cache
+C:\Users\Mohammed.Ajari.SSMLEC_07\source\repos\ChatApplication\ChatApplication2\obj\Debug\net6.0-windows\ChatApplication2.Form1.resources
+C:\Users\Mohammed.Ajari.SSMLEC_07\source\repos\ChatApplication\ChatApplication2\obj\Debug\net6.0-windows\ChatApplication2.csproj.GenerateResource.cache
+C:\Users\Mohammed.Ajari.SSMLEC_07\source\repos\ChatApplication\ChatApplication2\obj\Debug\net6.0-windows\ChatApplication2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed.Ajari.SSMLEC_07\source\repos\ChatApplication\ChatApplication2\obj\Debug\net6.0-windows\ChatApplication2.AssemblyInfoInputs.cache
+C:\Users\Mohammed.Ajari.SSMLEC_07\source\repos\ChatApplication\ChatApplication2\obj\Debug\net6.0-windows\ChatApplication2.AssemblyInfo.cs
+C:\Users\Mohammed.Ajari.SSMLEC_07\source\repos\ChatApplication\ChatApplication2\obj\Debug\net6.0-windows\ChatApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed.Ajari.SSMLEC_07\source\repos\ChatApplication\ChatApplication2\bin\Debug\net6.0-windows\ChatApplication2.exe
+C:\Users\Mohammed.Ajari.SSMLEC_07\source\repos\ChatApplication\ChatApplication2\bin\Debug\net6.0-windows\ChatApplication2.deps.json
+C:\Users\Mohammed.Ajari.SSMLEC_07\source\repos\ChatApplication\ChatApplication2\bin\Debug\net6.0-windows\ChatApplication2.runtimeconfig.json
+C:\Users\Mohammed.Ajari.SSMLEC_07\source\repos\ChatApplication\ChatApplication2\bin\Debug\net6.0-windows\ChatApplication2.dll
+C:\Users\Mohammed.Ajari.SSMLEC_07\source\repos\ChatApplication\ChatApplication2\bin\Debug\net6.0-windows\ChatApplication2.pdb
+C:\Users\Mohammed.Ajari.SSMLEC_07\source\repos\ChatApplication\ChatApplication2\obj\Debug\net6.0-windows\ChatApplication2.dll
+C:\Users\Mohammed.Ajari.SSMLEC_07\source\repos\ChatApplication\ChatApplication2\obj\Debug\net6.0-windows\refint\ChatApplication2.dll
+C:\Users\Mohammed.Ajari.SSMLEC_07\source\repos\ChatApplication\ChatApplication2\obj\Debug\net6.0-windows\ChatApplication2.pdb
+C:\Users\Mohammed.Ajari.SSMLEC_07\source\repos\ChatApplication\ChatApplication2\obj\Debug\net6.0-windows\ChatApplication2.genruntimeconfig.cache
+C:\Users\Mohammed.Ajari.SSMLEC_07\source\repos\ChatApplication\ChatApplication2\obj\Debug\net6.0-windows\ref\ChatApplication2.dll
